@@ -16,4 +16,7 @@ The kernel function `fun_kernel` contains two examples of possible kernels.
 
 Set/Unset appropriate comments in `fun_kernel` to select the kernel you want.
 
+# More details 
+Can be found in the original presentation (in German) or the English translation.
+
 # WARNING: The script has not been tested!
